@@ -1,0 +1,31 @@
+_repo: The-Circular-Staircase_434
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Rinehart, Mary Roberts
+    birthdate: 1876
+    deathdate: 1958
+    gutenberg_agent_id: '183'
+    url: http://www.gutenberg.org/2009/agents/183
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Roberts_Rinehart
+description: Wealthy spinster Rachel Innes is persuaded by her niece and nephew Gertrude
+  and Halsey to take a house in the country for the summer. Rachel is unaware that
+  the house holds a secret, and soon unexplained happenings and murder follow.
+gutenberg_bookshelf: Detective Fiction
+gutenberg_issued: '1996-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '434'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Mystery fiction'
+- !lcsh 'Middle-aged women -- Fiction'
+- !lcsh 'Country homes -- Fiction'
+- !lcsh 'Murder -- Investigation -- Fiction'
+- GITenberg
+title: The Circular Staircase
+url: http://www.gutenberg.org/ebooks/434
