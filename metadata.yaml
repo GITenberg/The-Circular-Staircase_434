@@ -1,5 +1,8 @@
 _repo: The-Circular-Staircase_434
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Rinehart, Mary Roberts
@@ -11,6 +14,8 @@ creator:
 description: Wealthy spinster Rachel Innes is persuaded by her niece and nephew Gertrude
   and Halsey to take a house in the country for the summer. Rachel is unaware that
   the house holds a secret, and soon unexplained happenings and murder follow.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/434#The-Circular-Staircase
 gutenberg_bookshelf: Detective Fiction
 gutenberg_issued: '1996-02-01'
 gutenberg_type: Text
